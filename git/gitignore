@@ -1,0 +1,63 @@
+# personal and scratch notes
+*notes*
+
+# log files
+*.log
+
+# system files
+.DS_Store
+Thumbs.db
+
+# environment-specific files
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+.env.test
+
+__pycache__/
+
+# package manager directories
+node_modules/
+vendor/
+
+# build output directories
+build/
+dist/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.sublime-*
+*.swp*
+
+# OS-generated files
+ehthumbs.db
+Icon?
+ehthumbs_vista.db
+Desktop.ini
+
+# backup files
+*~
+*.bak
+*.backup
+*.old
+
+# temporary files
+*.tmp
+*.temp
+
+# specific file types
+*.log
+*.lock
+*.zip
+*.rar
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+
+# sensitive or personal information
+config.ini
+secrets.yml
+passwords.txt
